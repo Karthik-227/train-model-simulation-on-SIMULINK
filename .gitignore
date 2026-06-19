@@ -1,0 +1,14 @@
+# Simulink cache/autosave
+*.slxc
+*.autosave
+slprj/
+sccprj/
+
+# MATLAB
+*.asv
+*.m~
+codegen/
+
+# OS junk
+.DS_Store
+Thumbs.db
